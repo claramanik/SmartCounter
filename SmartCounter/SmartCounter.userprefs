@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\Drag.cs">
+    <Files>
+      <File FileName="Assets\Script\Controller.cs" Line="7" Column="21" />
+      <File FileName="Assets\Script\Timer.cs" Line="12" Column="14" />
+      <File FileName="Assets\Script\Drag.cs" Line="132" Column="89" />
+      <File FileName="Assets\Script\Drag22.cs" Line="61" Column="33" />
+      <File FileName="Assets\Script\Drag3.cs" Line="91" Column="33" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
